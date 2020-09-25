@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AlekeyJr\\OneDrive - mail.ccsf.edu\\Escritorio\\Api - Progra\\pr_web_api_empresa\\pr_web_api_empresa.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AlekeyJr\\OneDrive - mail.ccsf.edu\\Escritorio\\Api - Progra\\pr_web_api_empresa\\pr_web_api_empresa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AlekeyJr\\OneDrive - mail.ccsf.edu\\Escritorio\\Api - Progra\\pr_web_api_empresa\\pr_web_api_empresa.csproj",
+        "projectName": "pr_web_api_empresa",
+        "projectPath": "C:\\Users\\AlekeyJr\\OneDrive - mail.ccsf.edu\\Escritorio\\Api - Progra\\pr_web_api_empresa\\pr_web_api_empresa.csproj",
+        "packagesPath": "C:\\Users\\AlekeyJr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlekeyJr\\OneDrive - mail.ccsf.edu\\Escritorio\\Api - Progra\\pr_web_api_empresa\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AlekeyJr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
